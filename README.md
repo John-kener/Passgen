@@ -1,2 +1,29 @@
 # Passgen
-A simple sript to create random strong passwords for any site
+
+
+<a>
+<img align="justify" width="400px" src="https://github.com/John-kener/Passgen/blob/main/Screenshot_20210430-125933-1.jpg" />
+</a>"
+
+`pkg update && pkg upgrade
+
+`pkg install python`
+
+`pkg install python2`
+
+`pkg install git`
+
+`git clone http://github.com/john-kener/Passgen`
+
+`cd passgen.py`
+
+`python requirements.py`
+
+`python hide-it.py`
+
+
+<head4> ●❯ NOW CREATE PASSWORDS AS YOU WANT...</head4>
+
+
+
+
