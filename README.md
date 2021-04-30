@@ -20,7 +20,7 @@
 
 `git clone http://github.com/john-kener/Passgen`
 
-`cd passgen.py`
+`cd Passgen.py`
 
 `python requirements.py`
 
