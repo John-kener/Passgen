@@ -24,7 +24,7 @@
 
 `python requirements.py`
 
-`python hide-it.py`
+`python passgen.py`
 
 
 <head4> ●❯ NOW CREATE PASSWORDS AS YOU WANT...</head4>
