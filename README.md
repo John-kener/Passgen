@@ -8,6 +8,8 @@
 <img align="justify" width="400px" src="https://github.com/John-kener/Passgen/blob/main/Screenshot_20210430-125933-1.jpg" />
 </a>
 
+#### Command list
+
 `pkg update && pkg upgrade`
 
 `pkg install python`
