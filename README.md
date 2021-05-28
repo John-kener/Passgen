@@ -1,5 +1,6 @@
 # Passgen
 
+### EASY SCRIPT (JUST FOR FUN 😋😜🤪😝)
 
 #### TESTED ON TERMUX
 
